@@ -80,6 +80,3 @@ Explores a new dataset for insights and presents findings in a structured format
 
 ---
 
-## 🚀 Let’s Connect!
-
-If you’re interested in collaborating or discussing data projects, feel free to reach out. I’m actively seeking internship opportunities where I can contribute and grow as a data analyst or machine learning practitioner.
