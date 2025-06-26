@@ -1,5 +1,5 @@
 
-# 👨‍💻 Shobhit Rana – Data Analytics & Machine Learning Portfolio
+# Shobhit Rana – Data Analytics & Machine Learning Portfolio
 
 Hi there! I’m **Shobhit Rana**, a Master’s student in Information and Communications Technology at **Western Sydney University**, majoring in **Data Analytics**. I’m passionate about turning raw data into actionable insights and have hands-on experience in data preprocessing, statistical modeling, and machine learning using **Python**, **R**, **SQL**, and **data visualization tools**. My projects reflect both academic excellence and a strong interest in solving real-world problems through data-driven approaches.
 
@@ -7,7 +7,7 @@ Below are selected projects showcasing my technical abilities, analytical thinki
 
 ---
 
-## 📊 Customer Analytics  
+## Customer Analytics  
 [🔗 GitHub Repository](https://github.com/ranacode97/Customer-Analytics)
 
 **Overview**:  
@@ -26,7 +26,7 @@ This project focuses on understanding customer segments and evaluating a retail 
 
 ---
 
-📉 Australian Health Data Visualisation & Analysis using Tableau
+## Australian Health Data Visualisation & Analysis using Tableau
 
 [🔗 GitHub Repository](https://github.com/ranacode97/Australian-Health-Data-Visualizations)
 
@@ -55,7 +55,7 @@ Python, Tableau Public, Microsoft Excel
 
 ---
 
-## 📁 Assignment 1 – Data Analysis & Visualization  
+## Assignment 1 – Data Analysis & Visualization  
 [🔗 GitHub Repository](https://github.com/ranacode97/assignment-1-main)
 
 **Overview**:  
@@ -73,7 +73,7 @@ This project demonstrates the use of Python for data cleaning, transformation, a
 
 ---
 
-## 📈 Assignment 2 – Predictive Analytics  
+## Assignment 2 – Predictive Analytics  
 [🔗 GitHub Repository](https://github.com/ranacode97/assignment-2-pa-main)
 
 **Overview**:  
@@ -91,7 +91,7 @@ Focused on building and evaluating machine learning models to predict outcomes b
 
 ---
 
-## 📊 Assignment 3 – Exploratory Data Analysis & Reporting  
+## Assignment 3 – Exploratory Data Analysis & Reporting  
 [🔗 GitHub Repository](https://github.com/ranacode97/assignment-shobhitrana-main)
 
 **Overview**:  
